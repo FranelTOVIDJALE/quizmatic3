@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FranelTOVIDJALE/QuizMatic/static/css/main.e087b40f.css",
+    "main.js": "/FranelTOVIDJALE/QuizMatic/static/js/main.dbada720.js",
+    "static/js/787.72cb3e9d.chunk.js": "/FranelTOVIDJALE/QuizMatic/static/js/787.72cb3e9d.chunk.js",
+    "static/media/background.png": "/FranelTOVIDJALE/QuizMatic/static/media/background.41dbc5504a105eae7176.png",
+    "index.html": "/FranelTOVIDJALE/QuizMatic/index.html",
+    "main.e087b40f.css.map": "/FranelTOVIDJALE/QuizMatic/static/css/main.e087b40f.css.map",
+    "main.dbada720.js.map": "/FranelTOVIDJALE/QuizMatic/static/js/main.dbada720.js.map",
+    "787.72cb3e9d.chunk.js.map": "/FranelTOVIDJALE/QuizMatic/static/js/787.72cb3e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e087b40f.css",
+    "static/js/main.dbada720.js"
+  ]
+}
